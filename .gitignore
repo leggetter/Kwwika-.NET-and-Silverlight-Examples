@@ -1,0 +1,14 @@
+
+Chat/bin
+*.vspscc
+*.user
+Chat/obj
+*.SCC
+KwwikaChat_silverlight.Web/bin
+KwwikaChat_silverlight.Web/obj
+KwwikaChat_silverlight/Bin
+KwwikaChat_silverlight/obj/
+KwwikaChat_wpf/bin
+KwwikaChat_wpf/obj
+Kwwika-Examples-VS2008.suo
+KwwikaChat_silverlight.Web/ClientBin/KwwikaChat_silverlight.xap
